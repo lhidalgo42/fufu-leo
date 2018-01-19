@@ -1,0 +1,46 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "lhidalgo42.narnialabs.cl"
+    }
+  }
+}
